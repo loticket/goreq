@@ -1,4 +1,4 @@
-module github.com/zhshch2002/goreq
+module github.com/loticket/goreq
 
 go 1.16
 
