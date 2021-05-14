@@ -12,7 +12,7 @@
 > 让`net/http`为人类服务。
 
 ```sh
-go get -u github.com/zhshch2002/goreq
+go get -u github.com/loticket/goreq
 ```
 
 ## Feature
